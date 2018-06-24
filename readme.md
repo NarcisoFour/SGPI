@@ -1,12 +1,12 @@
-# sistema de gestion de pedidos y inventarios
+# Sistema de Gestión de Pedidos
 
 - User - Especial | Cajero | Repartidores
 
-- Vitrina
-- Producto
-- Categoria
+- Vitrina - Showcase
+- Producto - Product
+- Categoría - Category
 
-- Pedido
-- Detalle_Pedido
+- Orden - Order
+- Detalle Orden - Order Detail
 
-- Asignacion 
+- Asignación - Assignment 
