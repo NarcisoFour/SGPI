@@ -78,7 +78,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'es',
 
     /*
     |--------------------------------------------------------------------------
@@ -162,6 +162,9 @@ return [
         
         // Roles y Permisos
         Caffeinated\Shinobi\ShinobiServiceProvider::class,
+
+        // Idioma Español
+        Laraveles\Spanish\SpanishServiceProvider::class,
     ],
 
     /*
