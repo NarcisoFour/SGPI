@@ -1,6 +1,6 @@
-# Resumen de la base de datos 
+# sistema de gestion de pedidos y inventarios
 
-### User - Especial | Cajero | Repartidores
+- User - Especial | Cajero | Repartidores
 
 - Vitrina
 - Producto
