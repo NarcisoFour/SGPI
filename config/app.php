@@ -165,6 +165,9 @@ return [
 
         // Idioma Español
         Laraveles\Spanish\SpanishServiceProvider::class,
+
+        // Rutas bonitas
+        PrettyRoutes\ServiceProvider::class,
     ],
 
     /*
