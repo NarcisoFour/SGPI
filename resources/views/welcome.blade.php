@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sistema de Gestion de Pedidos
+                    {{ __('Order Management System') }}
                 </div>
 
             </div>
