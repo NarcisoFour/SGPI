@@ -11,5 +11,7 @@
     "Send Password Reset Link": "Enviar enlace para restablecer contraseña",
     "Logout": "Cerrar sesión",
     "Order Management System": "Sistema de Gestión de Pedidos",
-    "OMS": "SGP"
+    "OMS": "SGP",
+    "Users": "Usuarios",
+    "Roles": "Roles"
 }
